@@ -1,0 +1,4 @@
+id,name,center_lat,center_lon,radius_km,ispu_category,pm25_ug_m3,hazard_multiplier,wind_dispersion_direction
+SMOKE_PLUME_JABIREN,Kabut Asap Pekat Jabiren-Tumbang Nusa,-2.4600,114.1000,12.0,BERBAHAYA,415.0,3.5,Tenggara_ke_BaratLaut
+SMOKE_PLUME_SEBANGAU,Kabut Asap Sebangau-Sabaru,-2.3100,113.8750,8.0,SANGAT_TIDAK_SEHAT,265.0,2.2,Tenggara_ke_BaratLaut
+SMOKE_PLUME_CENTRAL,Kabut Asap Palangka Raya Selatan,-2.2500,113.9500,9.0,TIDAK_SEHAT,145.0,1.5,Muson_Tenggara

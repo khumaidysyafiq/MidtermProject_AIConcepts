@@ -1,0 +1,517 @@
+{
+  "metadata": {
+    "title": "Kalimantan Peatland Wildfire Transport and Hazard Network Dataset",
+    "region": "Palangka Raya - Pulang Pisau Corridor, Central Kalimantan, Indonesia",
+    "crs": "EPSG:4326 (WGS84)",
+    "version": "1.0.0",
+    "year": 2026,
+    "authors": "ITS AI Disaster Response Research Team"
+  },
+  "nodes": [
+    {
+      "id": "POSKO_INDUK",
+      "name": "Posko Induk Palangka Raya",
+      "latitude": "-2.2078",
+      "longitude": "113.9165",
+      "type": "command_post",
+      "regency": "Kota Palangka Raya",
+      "elevation_m": "25",
+      "description": "BPBD & Manggala Agni Central Emergency Command Post"
+    },
+    {
+      "id": "RSUD_DORIS",
+      "name": "RSUD dr. Doris Sylvanus",
+      "latitude": "-2.2150",
+      "longitude": "113.9210",
+      "type": "hospital",
+      "regency": "Kota Palangka Raya",
+      "elevation_m": "24",
+      "description": "Main Provincial Referral Hospital & Burn Trauma Center"
+    },
+    {
+      "id": "SABARU",
+      "name": "Sabaru (Pintu TN Sebangau)",
+      "latitude": "-2.2610",
+      "longitude": "113.8820",
+      "type": "checkpoint",
+      "regency": "Kota Palangka Raya",
+      "elevation_m": "20",
+      "description": "Gateway to Sebangau National Park Peat Swamp"
+    },
+    {
+      "id": "BERENG_BENGKEL",
+      "name": "Bereng Bengkel",
+      "latitude": "-2.2740",
+      "longitude": "113.9310",
+      "type": "village",
+      "regency": "Kota Palangka Raya",
+      "elevation_m": "18",
+      "description": "Riparian Settlement along Kahayan River"
+    },
+    {
+      "id": "KALAMPANGAN",
+      "name": "Kalampangan Agropolitan",
+      "latitude": "-2.2925",
+      "longitude": "113.9870",
+      "type": "village",
+      "regency": "Kota Palangka Raya",
+      "elevation_m": "22",
+      "description": "High-risk Peat Farm Community along Trans Kalimantan"
+    },
+    {
+      "id": "TARUNA",
+      "name": "Taruna Checkpoint",
+      "latitude": "-2.3610",
+      "longitude": "114.0450",
+      "type": "checkpoint",
+      "regency": "Kabupaten Pulang Pisau",
+      "elevation_m": "19",
+      "description": "Fire Monitoring Watchtower & Water Supply Staging Post"
+    },
+    {
+      "id": "SEBANGAU_POST",
+      "name": "Pos Penjagaan TN Sebangau",
+      "latitude": "-2.3500",
+      "longitude": "113.8500",
+      "type": "shelter",
+      "regency": "Kota Palangka Raya",
+      "elevation_m": "15",
+      "description": "Deep Peat Swamp Forest Ranger & Research Station"
+    },
+    {
+      "id": "JABIREN",
+      "name": "Jabiren Peatland Center",
+      "latitude": "-2.4830",
+      "longitude": "114.1250",
+      "type": "village",
+      "regency": "Kabupaten Pulang Pisau",
+      "elevation_m": "14",
+      "description": "Ground Zero of Active Peat Fires (Pulang Pisau Epicenter)"
+    },
+    {
+      "id": "PILANG",
+      "name": "Desa Pilang",
+      "latitude": "-2.4200",
+      "longitude": "114.2100",
+      "type": "village",
+      "regency": "Kabupaten Pulang Pisau",
+      "elevation_m": "12",
+      "description": "Rural Peat Settlement along Kahayan River Tributary"
+    },
+    {
+      "id": "HENDA",
+      "name": "Desa Henda",
+      "latitude": "-2.5700",
+      "longitude": "114.1750",
+      "type": "village",
+      "regency": "Kabupaten Pulang Pisau",
+      "elevation_m": "11",
+      "description": "Canal-dense Peat Agriculture Zone near Tumbang Nusa"
+    },
+    {
+      "id": "BUNTOI",
+      "name": "Desa Adat Buntoi",
+      "latitude": "-2.6850",
+      "longitude": "114.1950",
+      "type": "shelter",
+      "regency": "Kabupaten Pulang Pisau",
+      "elevation_m": "10",
+      "description": "Dayak Cultural Village & Community Evacuation Safe Assembly"
+    },
+    {
+      "id": "PULANG_PISAU",
+      "name": "Kota Pulang Pisau",
+      "latitude": "-2.7450",
+      "longitude": "114.2500",
+      "type": "command_post",
+      "regency": "Kabupaten Pulang Pisau",
+      "elevation_m": "9",
+      "description": "Pulang Pisau Regency Command & Kahayan River Water Depot"
+    },
+    {
+      "id": "MINTIN",
+      "name": "Mintin Relief Depot",
+      "latitude": "-2.8100",
+      "longitude": "114.2900",
+      "type": "water_source",
+      "regency": "Kabupaten Pulang Pisau",
+      "elevation_m": "8",
+      "description": "Clean Water Pumping Station & Medical Relief Staging Camp"
+    },
+    {
+      "id": "BUKIT_RAWI",
+      "name": "Simpang Bukit Rawi",
+      "latitude": "-2.1400",
+      "longitude": "114.0100",
+      "type": "checkpoint",
+      "regency": "Kabupaten Pulang Pisau",
+      "elevation_m": "23",
+      "description": "Northern Bypass Junction (Elevated Pile Slab Causeway)"
+    },
+    {
+      "id": "TUWUNG",
+      "name": "Desa Tuwung",
+      "latitude": "-2.0400",
+      "longitude": "114.0800",
+      "type": "village",
+      "regency": "Kabupaten Pulang Pisau",
+      "elevation_m": "21",
+      "description": "Northern Buffer Evacuation Area"
+    },
+    {
+      "id": "ANJIR_KALAMPAN",
+      "name": "Anjir Kalampan",
+      "latitude": "-2.7200",
+      "longitude": "114.3300",
+      "type": "water_source",
+      "regency": "Kabupaten Kapuas",
+      "elevation_m": "7",
+      "description": "Ex-Mega Rice Project (PLG) Primary Canal Sluice Gate"
+    },
+    {
+      "id": "KAPUAS_BARAT",
+      "name": "Mandomai (Kapuas Barat)",
+      "latitude": "-2.8800",
+      "longitude": "114.3500",
+      "type": "shelter",
+      "regency": "Kabupaten Kapuas",
+      "elevation_m": "8",
+      "description": "River Crossing Hub & Secondary Field Hospital"
+    },
+    {
+      "id": "KUALA_KAPUAS",
+      "name": "Kota Kuala Kapuas",
+      "latitude": "-3.0080",
+      "longitude": "114.3850",
+      "type": "hospital",
+      "regency": "Kabupaten Kapuas",
+      "elevation_m": "6",
+      "description": "Regional Commercial Hub & Deepwater Evacuation Port"
+    }
+  ],
+  "edges": [
+    {
+      "u": "POSKO_INDUK",
+      "v": "RSUD_DORIS",
+      "distance_km": "1.1",
+      "road_type": "highway",
+      "surface": "Aspal Hotmix",
+      "speed_limit_kmh": "60",
+      "is_bidirectional": "true",
+      "road_name": "Jl. Tjilik Riwut - Jl. Tambun Bungai"
+    },
+    {
+      "u": "RSUD_DORIS",
+      "v": "BERENG_BENGKEL",
+      "distance_km": "7.6",
+      "road_type": "highway",
+      "surface": "Aspal Hotmix",
+      "speed_limit_kmh": "70",
+      "is_bidirectional": "true",
+      "road_name": "Trans Kalimantan Poros Tengah"
+    },
+    {
+      "u": "BERENG_BENGKEL",
+      "v": "KALAMPANGAN",
+      "distance_km": "6.7",
+      "road_type": "highway",
+      "surface": "Aspal Hotmix",
+      "speed_limit_kmh": "80",
+      "is_bidirectional": "true",
+      "road_name": "Trans Kalimantan Utama (Palangka - Basarang)"
+    },
+    {
+      "u": "KALAMPANGAN",
+      "v": "TARUNA",
+      "distance_km": "10.2",
+      "road_type": "highway",
+      "surface": "Aspal Hotmix",
+      "speed_limit_kmh": "80",
+      "is_bidirectional": "true",
+      "road_name": "Trans Kalimantan Bypass Taruna"
+    },
+    {
+      "u": "TARUNA",
+      "v": "JABIREN",
+      "distance_km": "16.4",
+      "road_type": "highway",
+      "surface": "Aspal Hotmix",
+      "speed_limit_kmh": "70",
+      "is_bidirectional": "true",
+      "road_name": "Trans Kalimantan Poros Selatan (Melintasi Gambut Jabiren)"
+    },
+    {
+      "u": "JABIREN",
+      "v": "HENDA",
+      "distance_km": "11.2",
+      "road_type": "highway",
+      "surface": "Aspal Hotmix (Pile Slab)",
+      "speed_limit_kmh": "80",
+      "is_bidirectional": "true",
+      "road_name": "Trans Kalimantan - Jembatan Layang Tumbang Nusa"
+    },
+    {
+      "u": "HENDA",
+      "v": "BUNTOI",
+      "distance_km": "13.1",
+      "road_type": "highway",
+      "surface": "Aspal Hotmix",
+      "speed_limit_kmh": "70",
+      "is_bidirectional": "true",
+      "road_name": "Trans Kalimantan Akses Buntoi"
+    },
+    {
+      "u": "BUNTOI",
+      "v": "PULANG_PISAU",
+      "distance_km": "9.2",
+      "road_type": "highway",
+      "surface": "Aspal Hotmix",
+      "speed_limit_kmh": "70",
+      "is_bidirectional": "true",
+      "road_name": "Jl. Trans Kalimantan Pulang Pisau"
+    },
+    {
+      "u": "PULANG_PISAU",
+      "v": "MINTIN",
+      "distance_km": "8.6",
+      "road_type": "highway",
+      "surface": "Aspal Hotmix",
+      "speed_limit_kmh": "70",
+      "is_bidirectional": "true",
+      "road_name": "Trans Kalimantan Menuju Kapuas"
+    },
+    {
+      "u": "MINTIN",
+      "v": "KAPUAS_BARAT",
+      "distance_km": "10.1",
+      "road_type": "highway",
+      "surface": "Aspal Hotmix",
+      "speed_limit_kmh": "70",
+      "is_bidirectional": "true",
+      "road_name": "Jalan Lintas Selatan Kalimantan"
+    },
+    {
+      "u": "KAPUAS_BARAT",
+      "v": "KUALA_KAPUAS",
+      "distance_km": "14.7",
+      "road_type": "highway",
+      "surface": "Aspal Hotmix",
+      "speed_limit_kmh": "70",
+      "is_bidirectional": "true",
+      "road_name": "Jalan Nasional Menuju Pelabuhan Kuala Kapuas"
+    },
+    {
+      "u": "POSKO_INDUK",
+      "v": "BUKIT_RAWI",
+      "distance_km": "13.2",
+      "road_type": "secondary",
+      "surface": "Aspal Penetrasi Baik",
+      "speed_limit_kmh": "60",
+      "is_bidirectional": "true",
+      "road_name": "Jalan Lingkar Luar Palangka Raya - Bukit Rawi"
+    },
+    {
+      "u": "BUKIT_RAWI",
+      "v": "TUWUNG",
+      "distance_km": "13.8",
+      "road_type": "secondary",
+      "surface": "Aspal Penetrasi Sedang",
+      "speed_limit_kmh": "50",
+      "is_bidirectional": "true",
+      "road_name": "Jalan Poros Kahayan Tengah"
+    },
+    {
+      "u": "BUKIT_RAWI",
+      "v": "PILANG",
+      "distance_km": "38.5",
+      "road_type": "secondary",
+      "surface": "Aspal Penetrasi Rusak Ringan",
+      "speed_limit_kmh": "50",
+      "is_bidirectional": "true",
+      "road_name": "Jalan Pesisir Kahayan Utara"
+    },
+    {
+      "u": "PILANG",
+      "v": "TARUNA",
+      "distance_km": "19.8",
+      "road_type": "peat_trail",
+      "surface": "Tanah Gambut Padat",
+      "speed_limit_kmh": "30",
+      "is_bidirectional": "true",
+      "road_name": "Jalur Rintisan Usaha Tani Pilang-Taruna"
+    },
+    {
+      "u": "PILANG",
+      "v": "JABIREN",
+      "distance_km": "12.5",
+      "road_type": "peat_trail",
+      "surface": "Tanah Gambut Labil / Bekas Terbakar",
+      "speed_limit_kmh": "20",
+      "is_bidirectional": "true",
+      "road_name": "Jalur Setapak Hutan Gambut Pilang-Jabiren"
+    },
+    {
+      "u": "PILANG",
+      "v": "BUNTOI",
+      "distance_km": "30.3",
+      "road_type": "secondary",
+      "surface": "Aspal Penetrasi Sedang",
+      "speed_limit_kmh": "50",
+      "is_bidirectional": "true",
+      "road_name": "Jalan Penghubung Kahayan Hilir"
+    },
+    {
+      "u": "POSKO_INDUK",
+      "v": "SABARU",
+      "distance_km": "7.1",
+      "road_type": "secondary",
+      "surface": "Aspal Hotmix Kota",
+      "speed_limit_kmh": "60",
+      "is_bidirectional": "true",
+      "road_name": "Jalan Kereng Bangkirai - Sabaru"
+    },
+    {
+      "u": "SABARU",
+      "v": "SEBANGAU_POST",
+      "distance_km": "10.7",
+      "road_type": "peat_trail",
+      "surface": "Tanah Gambut / Titian Kayu",
+      "speed_limit_kmh": "25",
+      "is_bidirectional": "true",
+      "road_name": "Jalan Rintisan Gambut TN Sebangau"
+    },
+    {
+      "u": "SEBANGAU_POST",
+      "v": "JABIREN",
+      "distance_km": "34.4",
+      "road_type": "peat_trail",
+      "surface": "Tanah Gambut Dalam Labil",
+      "speed_limit_kmh": "20",
+      "is_bidirectional": "true",
+      "road_name": "Koridor Rimba Gambut Sebangau-Jabiren"
+    },
+    {
+      "u": "SABARU",
+      "v": "KALAMPANGAN",
+      "distance_km": "12.3",
+      "road_type": "secondary",
+      "surface": "Aspal Penetrasi",
+      "speed_limit_kmh": "50",
+      "is_bidirectional": "true",
+      "road_name": "Jalan Mahir Mahar Lingkar Luar Selatan"
+    },
+    {
+      "u": "BERENG_BENGKEL",
+      "v": "PILANG",
+      "distance_km": "34.2",
+      "road_type": "canal",
+      "surface": "Jalur Aliran Air Sungai Kahayan",
+      "speed_limit_kmh": "35",
+      "is_bidirectional": "true",
+      "road_name": "Jalur Transportasi Air Sungai Kahayan"
+    },
+    {
+      "u": "HENDA",
+      "v": "ANJIR_KALAMPAN",
+      "distance_km": "20.8",
+      "road_type": "peat_trail",
+      "surface": "Tanggul Tanah Gambut Kanal Primer",
+      "speed_limit_kmh": "25",
+      "is_bidirectional": "true",
+      "road_name": "Tanggul Kanal Primer Eks-PLG Blok A"
+    },
+    {
+      "u": "ANJIR_KALAMPAN",
+      "v": "PULANG_PISAU",
+      "distance_km": "9.8",
+      "road_type": "secondary",
+      "surface": "Aspal Penetrasi Sederhana",
+      "speed_limit_kmh": "45",
+      "is_bidirectional": "true",
+      "road_name": "Jalan Inspeksi Saluran Irigasi Primer"
+    },
+    {
+      "u": "ANJIR_KALAMPAN",
+      "v": "KAPUAS_BARAT",
+      "distance_km": "18.4",
+      "road_type": "peat_trail",
+      "surface": "Tanggul Tanah Gambut Basah",
+      "speed_limit_kmh": "20",
+      "is_bidirectional": "true",
+      "road_name": "Jalur Tanggul Gambut Basah Kapuas"
+    }
+  ],
+  "hotspots": [
+    {
+      "id": "HOTSPOT_JABIREN",
+      "name": "Kebakaran Gambut Dalam Jabiren",
+      "latitude": "-2.4780",
+      "longitude": "114.1150",
+      "frp_mw": "420.0",
+      "confidence_pct": "98",
+      "satellite_source": "VIIRS/Suomi-NPP",
+      "spread_radius_km": "6.5",
+      "vegetation_type": "Lahan Gambut Dalam (>3m)",
+      "status": "AKTIF_BERKOBAR"
+    },
+    {
+      "id": "HOTSPOT_SEBANGAU",
+      "name": "Kebakaran Semak Belukar Penyangga Sebangau",
+      "latitude": "-2.3300",
+      "longitude": "113.8650",
+      "frp_mw": "180.0",
+      "confidence_pct": "92",
+      "satellite_source": "MODIS/Terra-Aqua",
+      "spread_radius_km": "4.0",
+      "vegetation_type": "Rawa Gambut & Semak Pakis Kering",
+      "status": "AKTIF_BERKOBAR"
+    },
+    {
+      "id": "HOTSPOT_KALAMPANGAN",
+      "name": "Kebakaran Lahan Kanal Pertanian Kalampangan",
+      "latitude": "-2.3100",
+      "longitude": "113.9980",
+      "frp_mw": "95.0",
+      "confidence_pct": "88",
+      "satellite_source": "VIIRS/NOAA-20",
+      "spread_radius_km": "2.8",
+      "vegetation_type": "Lahan Pertanian Gambut Kering",
+      "status": "SMOLDERING_ASAP"
+    }
+  ],
+  "smoke_zones": [
+    {
+      "id": "SMOKE_PLUME_JABIREN",
+      "name": "Kabut Asap Pekat Jabiren-Tumbang Nusa",
+      "center_lat": "-2.4600",
+      "center_lon": "114.1000",
+      "radius_km": "12.0",
+      "ispu_category": "BERBAHAYA",
+      "pm25_ug_m3": "415.0",
+      "hazard_multiplier": "3.5",
+      "wind_dispersion_direction": "Tenggara_ke_BaratLaut"
+    },
+    {
+      "id": "SMOKE_PLUME_SEBANGAU",
+      "name": "Kabut Asap Sebangau-Sabaru",
+      "center_lat": "-2.3100",
+      "center_lon": "113.8750",
+      "radius_km": "8.0",
+      "ispu_category": "SANGAT_TIDAK_SEHAT",
+      "pm25_ug_m3": "265.0",
+      "hazard_multiplier": "2.2",
+      "wind_dispersion_direction": "Tenggara_ke_BaratLaut"
+    },
+    {
+      "id": "SMOKE_PLUME_CENTRAL",
+      "name": "Kabut Asap Palangka Raya Selatan",
+      "center_lat": "-2.2500",
+      "center_lon": "113.9500",
+      "radius_km": "9.0",
+      "ispu_category": "TIDAK_SEHAT",
+      "pm25_ug_m3": "145.0",
+      "hazard_multiplier": "1.5",
+      "wind_dispersion_direction": "Muson_Tenggara"
+    }
+  ]
+}

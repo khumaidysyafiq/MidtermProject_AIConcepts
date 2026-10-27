@@ -1,0 +1,26 @@
+u,v,distance_km,road_type,surface,speed_limit_kmh,is_bidirectional,road_name
+POSKO_INDUK,RSUD_DORIS,1.1,highway,Aspal Hotmix,60,true,Jl. Tjilik Riwut - Jl. Tambun Bungai
+RSUD_DORIS,BERENG_BENGKEL,7.6,highway,Aspal Hotmix,70,true,Trans Kalimantan Poros Tengah
+BERENG_BENGKEL,KALAMPANGAN,6.7,highway,Aspal Hotmix,80,true,Trans Kalimantan Utama (Palangka - Basarang)
+KALAMPANGAN,TARUNA,10.2,highway,Aspal Hotmix,80,true,Trans Kalimantan Bypass Taruna
+TARUNA,JABIREN,16.4,highway,Aspal Hotmix,70,true,Trans Kalimantan Poros Selatan (Melintasi Gambut Jabiren)
+JABIREN,HENDA,11.2,highway,Aspal Hotmix (Pile Slab),80,true,Trans Kalimantan - Jembatan Layang Tumbang Nusa
+HENDA,BUNTOI,13.1,highway,Aspal Hotmix,70,true,Trans Kalimantan Akses Buntoi
+BUNTOI,PULANG_PISAU,9.2,highway,Aspal Hotmix,70,true,Jl. Trans Kalimantan Pulang Pisau
+PULANG_PISAU,MINTIN,8.6,highway,Aspal Hotmix,70,true,Trans Kalimantan Menuju Kapuas
+MINTIN,KAPUAS_BARAT,10.1,highway,Aspal Hotmix,70,true,Jalan Lintas Selatan Kalimantan
+KAPUAS_BARAT,KUALA_KAPUAS,14.7,highway,Aspal Hotmix,70,true,Jalan Nasional Menuju Pelabuhan Kuala Kapuas
+POSKO_INDUK,BUKIT_RAWI,13.2,secondary,Aspal Penetrasi Baik,60,true,Jalan Lingkar Luar Palangka Raya - Bukit Rawi
+BUKIT_RAWI,TUWUNG,13.8,secondary,Aspal Penetrasi Sedang,50,true,Jalan Poros Kahayan Tengah
+BUKIT_RAWI,PILANG,38.5,secondary,Aspal Penetrasi Rusak Ringan,50,true,Jalan Pesisir Kahayan Utara
+PILANG,TARUNA,19.8,peat_trail,Tanah Gambut Padat,30,true,Jalur Rintisan Usaha Tani Pilang-Taruna
+PILANG,JABIREN,12.5,peat_trail,Tanah Gambut Labil / Bekas Terbakar,20,true,Jalur Setapak Hutan Gambut Pilang-Jabiren
+PILANG,BUNTOI,30.3,secondary,Aspal Penetrasi Sedang,50,true,Jalan Penghubung Kahayan Hilir
+POSKO_INDUK,SABARU,7.1,secondary,Aspal Hotmix Kota,60,true,Jalan Kereng Bangkirai - Sabaru
+SABARU,SEBANGAU_POST,10.7,peat_trail,Tanah Gambut / Titian Kayu,25,true,Jalan Rintisan Gambut TN Sebangau
+SEBANGAU_POST,JABIREN,34.4,peat_trail,Tanah Gambut Dalam Labil,20,true,Koridor Rimba Gambut Sebangau-Jabiren
+SABARU,KALAMPANGAN,12.3,secondary,Aspal Penetrasi,50,true,Jalan Mahir Mahar Lingkar Luar Selatan
+BERENG_BENGKEL,PILANG,34.2,canal,Jalur Aliran Air Sungai Kahayan,35,true,Jalur Transportasi Air Sungai Kahayan
+HENDA,ANJIR_KALAMPAN,20.8,peat_trail,Tanggul Tanah Gambut Kanal Primer,25,true,Tanggul Kanal Primer Eks-PLG Blok A
+ANJIR_KALAMPAN,PULANG_PISAU,9.8,secondary,Aspal Penetrasi Sederhana,45,true,Jalan Inspeksi Saluran Irigasi Primer
+ANJIR_KALAMPAN,KAPUAS_BARAT,18.4,peat_trail,Tanggul Tanah Gambut Basah,20,true,Jalur Tanggul Gambut Basah Kapuas

@@ -1,0 +1,4 @@
+id,name,latitude,longitude,frp_mw,confidence_pct,satellite_source,spread_radius_km,vegetation_type,status
+HOTSPOT_JABIREN,Kebakaran Gambut Dalam Jabiren,-2.4780,114.1150,420.0,98,VIIRS/Suomi-NPP,6.5,Lahan Gambut Dalam (>3m),AKTIF_BERKOBAR
+HOTSPOT_SEBANGAU,Kebakaran Semak Belukar Penyangga Sebangau,-2.3300,113.8650,180.0,92,MODIS/Terra-Aqua,4.0,Rawa Gambut & Semak Pakis Kering,AKTIF_BERKOBAR
+HOTSPOT_KALAMPANGAN,Kebakaran Lahan Kanal Pertanian Kalampangan,-2.3100,113.9980,95.0,88,VIIRS/NOAA-20,2.8,Lahan Pertanian Gambut Kering,SMOLDERING_ASAP

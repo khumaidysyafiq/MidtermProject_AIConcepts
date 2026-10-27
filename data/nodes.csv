@@ -1,0 +1,19 @@
+id,name,latitude,longitude,type,regency,elevation_m,description
+POSKO_INDUK,Posko Induk Palangka Raya,-2.2078,113.9165,command_post,Kota Palangka Raya,25,BPBD & Manggala Agni Central Emergency Command Post
+RSUD_DORIS,RSUD dr. Doris Sylvanus,-2.2150,113.9210,hospital,Kota Palangka Raya,24,Main Provincial Referral Hospital & Burn Trauma Center
+SABARU,Sabaru (Pintu TN Sebangau),-2.2610,113.8820,checkpoint,Kota Palangka Raya,20,Gateway to Sebangau National Park Peat Swamp
+BERENG_BENGKEL,Bereng Bengkel,-2.2740,113.9310,village,Kota Palangka Raya,18,Riparian Settlement along Kahayan River
+KALAMPANGAN,Kalampangan Agropolitan,-2.2925,113.9870,village,Kota Palangka Raya,22,High-risk Peat Farm Community along Trans Kalimantan
+TARUNA,Taruna Checkpoint,-2.3610,114.0450,checkpoint,Kabupaten Pulang Pisau,19,Fire Monitoring Watchtower & Water Supply Staging Post
+SEBANGAU_POST,Pos Penjagaan TN Sebangau,-2.3500,113.8500,shelter,Kota Palangka Raya,15,Deep Peat Swamp Forest Ranger & Research Station
+JABIREN,Jabiren Peatland Center,-2.4830,114.1250,village,Kabupaten Pulang Pisau,14,Ground Zero of Active Peat Fires (Pulang Pisau Epicenter)
+PILANG,Desa Pilang,-2.4200,114.2100,village,Kabupaten Pulang Pisau,12,Rural Peat Settlement along Kahayan River Tributary
+HENDA,Desa Henda,-2.5700,114.1750,village,Kabupaten Pulang Pisau,11,Canal-dense Peat Agriculture Zone near Tumbang Nusa
+BUNTOI,Desa Adat Buntoi,-2.6850,114.1950,shelter,Kabupaten Pulang Pisau,10,Dayak Cultural Village & Community Evacuation Safe Assembly
+PULANG_PISAU,Kota Pulang Pisau,-2.7450,114.2500,command_post,Kabupaten Pulang Pisau,9,Pulang Pisau Regency Command & Kahayan River Water Depot
+MINTIN,Mintin Relief Depot,-2.8100,114.2900,water_source,Kabupaten Pulang Pisau,8,Clean Water Pumping Station & Medical Relief Staging Camp
+BUKIT_RAWI,Simpang Bukit Rawi,-2.1400,114.0100,checkpoint,Kabupaten Pulang Pisau,23,Northern Bypass Junction (Elevated Pile Slab Causeway)
+TUWUNG,Desa Tuwung,-2.0400,114.0800,village,Kabupaten Pulang Pisau,21,Northern Buffer Evacuation Area
+ANJIR_KALAMPAN,Anjir Kalampan,-2.7200,114.3300,water_source,Kabupaten Kapuas,7,Ex-Mega Rice Project (PLG) Primary Canal Sluice Gate
+KAPUAS_BARAT,Mandomai (Kapuas Barat),-2.8800,114.3500,shelter,Kabupaten Kapuas,8,River Crossing Hub & Secondary Field Hospital
+KUALA_KAPUAS,Kota Kuala Kapuas,-3.0080,114.3850,hospital,Kabupaten Kapuas,6,Regional Commercial Hub & Deepwater Evacuation Port
